@@ -1,0 +1,8 @@
+#main{
+    border: 1px solid green;
+    height: 400px;
+    width: 800px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 70px;
+}
